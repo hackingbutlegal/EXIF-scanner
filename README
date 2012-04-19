@@ -1,0 +1,3 @@
+EXIFscanner, a *nix shell script that will help you audit websites for any potentially sensitive GPS data that may be compromising your organizational security.
+
+Shoulders of giants: This ~40 line script was built on both Phil Harvey's excellent work, ExifTool <http://www.sno.phy.queensu.ca/~phil/exiftool>, and the timeless GNU Wget <http://www.gnu.org/software/wget/>.
