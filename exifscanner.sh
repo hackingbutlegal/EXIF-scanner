@@ -1,6 +1,7 @@
 #!/bin/bash
 # exifscanner.sh
-# Copyright 2012, Jacqueline Singh
+# Jackie Singh, 2012
+#
 
 echo
 echo "-----------------------------------------"
